@@ -1,0 +1,33 @@
+{
+  "configurations" : [
+    {
+      "id" : "D059888F-D03D-44F6-B619-20E82CB0318E",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:PopularMovies.xcodeproj",
+        "identifier" : "B92DB8702A7A99E40032FE25",
+        "name" : "PopularMoviesTests"
+      }
+    },
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:PopularMovies.xcodeproj",
+        "identifier" : "B92DB87A2A7A99E40032FE25",
+        "name" : "PopularMoviesUITests"
+      }
+    }
+  ],
+  "version" : 1
+}

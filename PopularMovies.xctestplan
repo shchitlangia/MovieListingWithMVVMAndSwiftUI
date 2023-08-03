@@ -1,0 +1,25 @@
+{
+  "configurations" : [
+    {
+      "id" : "C14AC98F-1B1B-4D88-9066-59517512FF35",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:PopularMovies.xcodeproj",
+        "identifier" : "B92DB8702A7A99E40032FE25",
+        "name" : "PopularMoviesTests"
+      }
+    }
+  ],
+  "version" : 1
+}

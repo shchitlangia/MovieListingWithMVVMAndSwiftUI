@@ -1,0 +1,108 @@
+{
+    "page": 1,
+    "results": [
+        {
+            "adult": false,
+            "backdrop_path": "/nHf61UzkfFno5X1ofIhugCPus2R.jpg",
+            "genre_ids": [
+                35,
+                12,
+                14
+            ],
+            "id": 346698,
+            "original_language": "en",
+            "original_title": "Barbie",
+            "overview": "Barbie and Ken are having the time of their lives in the colorful and seemingly perfect world of Barbie Land. However, when they get a chance to go to the real world, they soon discover the joys and perils of living among humans.",
+            "popularity": 3545.441,
+            "poster_path": "/iuFNMS8U5cb6xfzi51Dbkovj7vM.jpg",
+            "release_date": "2023-07-19",
+            "title": "Barbie",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 2010
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/yF1eOkaYvwiORauRCPWznV9xVvi.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 298618,
+            "original_language": "en",
+            "original_title": "The Flash",
+            "overview": "When his attempt to save his family inadvertently alters the future, Barry Allen becomes trapped in a reality in which General Zod has returned and there are no Super Heroes to turn to. In order to save the world that he is in and return to the future that he knows, Barry's only hope is to race for his life. But will making the ultimate sacrifice be enough to reset the universe?",
+            "popularity": 3531.771,
+            "poster_path": "/rktDFPbfHfUbArZ6OOOKsXcv0Bm.jpg",
+            "release_date": "2023-06-13",
+            "title": "The Flash",
+            "video": false,
+            "vote_average": 6.9,
+            "vote_count": 1903
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/2vFuG6bWGyQUzYS9d69E5l85nIz.jpg",
+            "genre_ids": [
+                28,
+                12,
+                878
+            ],
+            "id": 667538,
+            "original_language": "en",
+            "original_title": "Transformers: Rise of the Beasts",
+            "overview": "When a new threat capable of destroying the entire planet emerges, Optimus Prime and the Autobots must team up with a powerful faction known as the Maximals. With the fate of humanity hanging in the balance, humans Noah and Elena will do whatever it takes to help the Transformers as they engage in the ultimate battle to save Earth.",
+            "popularity": 3168.231,
+            "poster_path": "/gPbM0MK8CP8A174rmUwGsADNYKD.jpg",
+            "release_date": "2023-06-06",
+            "title": "Transformers: Rise of the Beasts",
+            "video": false,
+            "vote_average": 7.5,
+            "vote_count": 2216
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/znUYFf0Sez5lUmxPr3Cby7TVJ6c.jpg",
+            "genre_ids": [
+                12,
+                10751,
+                14,
+                10749
+            ],
+            "id": 447277,
+            "original_language": "en",
+            "original_title": "The Little Mermaid",
+            "overview": "The youngest of King Triton’s daughters, and the most defiant, Ariel longs to find out more about the world beyond the sea, and while visiting the surface, falls for the dashing Prince Eric. With mermaids forbidden to interact with humans, Ariel makes a deal with the evil sea witch, Ursula, which gives her a chance to experience life on land, but ultimately places her life – and her father’s crown – in jeopardy.",
+            "popularity": 2445.382,
+            "poster_path": "/ym1dxyOk4jFcSl4Q2zmRrA5BEEN.jpg",
+            "release_date": "2023-05-18",
+            "title": "The Little Mermaid",
+            "video": false,
+            "vote_average": 6.5,
+            "vote_count": 1320
+        },
+        {
+            "adult": false,
+            "backdrop_path": "/uj2duAkn6zUmRSbjyEr7XUeIWsJ.jpg",
+            "genre_ids": [
+                16,
+                28,
+                27
+            ],
+            "id": 1083862,
+            "original_language": "ja",
+            "original_title": "バイオハザード：デスアイランド",
+            "overview": "In San Francisco, Jill Valentine is dealing with a zombie outbreak and a new T-Virus, Leon Kennedy is on the trail of a kidnapped DARPA scientist, and Claire Redfield is investigating a monstrous fish that is killing whales in the bay. Joined by Chris Redfield and Rebecca Chambers, they discover the trail of clues from their separate cases all converge on the same location, Alcatraz Island, where a new evil has taken residence and awaits their arrival.",
+            "popularity": 2284.843,
+            "poster_path": "/qayga07ICNDswm0cMJ8P3VwklFZ.jpg",
+            "release_date": "2023-06-22",
+            "title": "Resident Evil: Death Island",
+            "video": false,
+            "vote_average": 7.9,
+            "vote_count": 323
+        }
+    ],
+    "total_pages": 39367,
+    "total_results": 787331
+}
